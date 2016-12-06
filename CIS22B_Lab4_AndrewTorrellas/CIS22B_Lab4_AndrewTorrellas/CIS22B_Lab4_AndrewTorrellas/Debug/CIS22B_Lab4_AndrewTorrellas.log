@@ -1,16 +1,16 @@
-﻿Build started 12/5/2016 10:33:42 PM.
+﻿Build started 12/5/2016 11:58:59 PM.
      1>Project "C:\Users\Xiaosa Yang\Desktop\CIS22B_Lab4_Xiaosa Yang\trunk\CIS22B_Lab4_AndrewTorrellas\CIS22B_Lab4_AndrewTorrellas\CIS22B_Lab4_AndrewTorrellas\CIS22B_Lab4_AndrewTorrellas.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
          Main.cpp
-     1>c:\users\xiaosa yang\desktop\cis22b_lab4_xiaosa yang\trunk\cis22b_lab4_andrewtorrellas\cis22b_lab4_andrewtorrellas\cis22b_lab4_andrewtorrellas\main.cpp(35): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
-                 c:\users\xiaosa yang\desktop\cis22b_lab4_xiaosa yang\trunk\cis22b_lab4_andrewtorrellas\cis22b_lab4_andrewtorrellas\cis22b_lab4_andrewtorrellas\main.cpp(137) : see reference to function template instantiation 'H total<int>(H)' being compiled
+     1>c:\users\xiaosa yang\desktop\cis22b_lab4_xiaosa yang\trunk\cis22b_lab4_andrewtorrellas\cis22b_lab4_andrewtorrellas\cis22b_lab4_andrewtorrellas\main.cpp(52): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+                 c:\users\xiaosa yang\desktop\cis22b_lab4_xiaosa yang\trunk\cis22b_lab4_andrewtorrellas\cis22b_lab4_andrewtorrellas\cis22b_lab4_andrewtorrellas\main.cpp(179) : see reference to function template instantiation 'H total<int>(H)' being compiled
                  with
                  [
                      H=int
                  ]
-     1>c:\users\xiaosa yang\desktop\cis22b_lab4_xiaosa yang\trunk\cis22b_lab4_andrewtorrellas\cis22b_lab4_andrewtorrellas\cis22b_lab4_andrewtorrellas\main.cpp(35): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
-                 c:\users\xiaosa yang\desktop\cis22b_lab4_xiaosa yang\trunk\cis22b_lab4_andrewtorrellas\cis22b_lab4_andrewtorrellas\cis22b_lab4_andrewtorrellas\main.cpp(142) : see reference to function template instantiation 'H total<float>(H)' being compiled
+     1>c:\users\xiaosa yang\desktop\cis22b_lab4_xiaosa yang\trunk\cis22b_lab4_andrewtorrellas\cis22b_lab4_andrewtorrellas\cis22b_lab4_andrewtorrellas\main.cpp(52): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+                 c:\users\xiaosa yang\desktop\cis22b_lab4_xiaosa yang\trunk\cis22b_lab4_andrewtorrellas\cis22b_lab4_andrewtorrellas\cis22b_lab4_andrewtorrellas\main.cpp(185) : see reference to function template instantiation 'H total<float>(H)' being compiled
                  with
                  [
                      H=float
@@ -22,4 +22,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:01.00
+Time Elapsed 00:00:01.48
